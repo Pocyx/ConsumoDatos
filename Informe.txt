@@ -1,0 +1,38 @@
+
+Desarrollador:        Andrés Manuel Gálvez Martín
+Empresa:              BizImagine
+Proyecto:             Consumo de datos
+
+Horas dedicadas:      12 horas
+Trabajo realizado:    PHP: -conexion a BBDD MySQL.
+		           -registrar usuario:
+				·Comprobar que no exista.
+			   -iniciar sesión:
+				·Validar contraseña y usuario.
+				·Distinguir entre usuario y administrador.
+				·Usuario: Mostrar datos de este usuario.
+				·Administrador: Listar usuarios y sus datos.
+				·Cerrar sesión.
+				 (4h)
+
+			SQL: -Nombre de la BBDD: consumo;
+			     -Tabla :usuario;
+			     -Campos: usuario_id,nombre,datosConsumidos,datosRestantes,cargo.
+			     -Diseño BBDD 
+			         (1h)
+
+ 			JS:  -Chart.js para diagrama circular.
+				 (1h)
+
+			CSS: -Bootstrap para tabla y botones.
+			     -Diagrama con canvas.
+			     -Fuentes sombreadas.
+			     -Página responsiva.
+			     -Barra de color que muestra el consumo.
+                             -Diseño HTML de la interfaz index e inicio. 
+				 (6h)
+
+Descripción:          La finalidad del presente proyecto es poder registrarse, iniciar sesión y poder ver
+		      su consumo de datos y los que le quedan por gastar.
+		
+		      Si usted es administrador, además podras ver el consumo que tienen todos sus clientes. 
