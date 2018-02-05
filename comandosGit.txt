@@ -1,0 +1,250 @@
+  1  git clone https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios.git
+    2  cd ../
+    3  ls
+    4  cd PocyxDesigner/
+    5  cd githubProyect/
+    6  ls
+    7  cd BizGit/
+    8  git status
+    9  git commit pruebaBiz.txt
+   10  git status
+   11  nano pruebaBiz.txt
+   12  git status
+   13  git add pruebaBiz.txt
+   14  git commit -m "Hello world"
+   15  git status
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "Test"
+   20  git status
+   21  git add .
+   22  git commit -m "Test2"
+   23  git status
+   24  git checkout master
+   25  git checkout test
+   26  git commit -am "123"
+   27  git status
+   28  git checkout master
+   29  git checkout
+   30  git status
+   31  git merge test
+   32  git commit -am "123456"
+   33  cat test
+   34  cat test.txt
+   35  git checkout test
+   36  git commit -am "123654"
+   37  git checkout master
+   38  git merge test
+   39  git commit -am "123456 Conflicto arreglado"
+   40  git merge test
+   41  git checkout test
+   42  git status
+   43  git commit -am "Test2"
+   44  git add test2.txt
+   45  git commit -am "Test2"
+   46  git checkout master
+   47  git add test2.txt
+   48  git commit -m "Test2"
+   49  git merge test
+   50  git commit -m "Test2"
+   51  git status
+   52  git commit -am "Test2"
+   53  status
+   54  git checkout test
+   55  git checkout master
+   56  git remote add origin https://github.com/Pocyx/PruebaBiz.git
+   57  git push -u origin master
+   58  git checkout test
+   59  git checkout master
+   60  git add test3.txt
+   61  git commit -m "Test3"
+   62  git push -u origin master
+   63  cd ../
+   64  git clone  https://github.com/Pocyx/test.git
+   65  cd test/
+   66  git status
+   67  git commit -am "Modificado Andres"
+   68  git push origin master
+   69  cd githubProyect/
+   70  git clone
+   71  git clone  https://github.com/Pocyx/ComsumoDatos.git
+   72  cd ComsumoDatos/
+   73  git branch
+   74  git branch backend
+   75  git branch
+   76  git branch frontend
+   77  git branch
+   78  git push origin backend
+   79  git banch
+   80  git branch
+   81  git push origin frontend
+   82  git branch
+   83  git branch frontend
+   84  git checkout
+   85  git checkout frontend
+   86  mkdir js
+   87  mkdir css
+   88  ls
+   89  cd js/
+   90  vista.js
+   91  vi vista.js
+   92  ls
+   93  cd ..
+   94  ls
+   95  cd css
+   96  ls
+   97  vi estilo.css
+   98  vi estilo.css
+   99  vi estilo.css
+  100  ls
+  101  vi estilos.css
+  102  ls
+  103  cd ..
+  104  ls
+  105  vi index.html
+  106  ls
+  107  git push origin frontend
+  108  git add .
+  109  git commit -am "frontend-1"
+  110  git push origin frontend
+  111  git push origin frontend
+  112  git add .
+  113  git commit -am "frontend-2"
+  114  git add .
+  115  git push origin frontend
+  116  ls
+  117  cd githubProyect/
+  118  ls
+  119  cd ConsusmoDatos
+  120  cd ComsumoDatos/
+  121  git add .
+  122  git commit -am "frontend 4"
+  123  git push origin fromtend
+  124  git push origin frontend
+  125  git checkout master
+  126  git checkout backend
+  127  git clone
+  128  git clone https://github.com/Pocyx/ComsumoDatos.git
+  129  ls
+  130  ls ComsumoDatos/
+  131  cd ComsumoDatos/
+  132  ls
+  133  ls ComsumoDatos/cd ..
+  134  cd ../
+  135  ls
+  136  git pull origin backens
+  137  git pull origin backend
+  138  ls
+  139  git checkout maste
+  140  git checkout master
+  141  git pull origin backend
+  142  git pull origin frontend
+  143  cd ..
+  144  git clone https://github.com/chartjs/Chart.js.git
+  145  git clone https://github.com/chartjs/Chart.js.git
+  146  cd githubProyect/
+  147  cd ComsumoDatos/
+  148  git status
+  149  git add .
+  150  git commit -am "merge1"
+  151  git startus
+  152  git status
+  153  git branch
+  154  git checkout
+  155  git checkout backend
+  156  git checkout frontend
+  157  git branch formulario
+  158  git branch
+  159  git checkout formulario
+  160  cd /
+  161  cd ls
+  162  cd c
+  163  ls
+  164  cd xampp
+  165  cd htdocs
+  166  cd ComsumoDatos/
+  167  git add .
+  168  git commit -am "Formulario"
+  169  git add .
+  170  git checkout master
+  171  git checkout formulario mulario
+  172  git checkout formulario
+  173  cd
+  174  ls
+  175  cd githubProyect/
+  176  cd ConsumoDatos
+  177  ls
+  178  cd ConsumoDatos
+  179  cd /
+  180  cd usr/
+  181  cd /
+  182  ls
+  183  cd githubProyect/
+  184  cd ConsumoDatos
+  185  ls
+  186  cd githubProyect/
+  187  cd ComsumoDatos/
+  188  git checkout master
+  189  cd ..
+  190  cd ..
+  191  cd Desktop/
+  192  git clone https://github.com/Pocyx/ComsumoDatos.git
+  193  cd ComsumoDatos/
+  194  ls
+  195  cd githubProyect/
+  196  ls
+  197  cd ComsumoDatos/
+  198  git branch
+  199  git branch production
+  200  git branch
+  201  git checkout production
+  202  ls
+  203  ls
+  204  cd githubProyect/
+  205  cd ..
+  206  cd xa
+  207  cd /
+  208  ls
+  209  pwd
+  210  cd ../../
+  211  ls
+  212  cd xampp
+  213  cd htdocs
+  214  ls
+  215  cd ConsumoDatos/
+  216  ls
+  217  git init
+  218  git status
+  219  git add .
+  220  git commit -m "First commit"
+  221
+  222  git remote add origin https://github.com/Pocyx/ConsumoDatos.git
+  223  git push -u origin master
+  224  .git ignore
+  225  touch .gitignore
+  226  git status
+  227  git add .gitignore
+  228  git commit -m "Add git ignore"
+  229  git push origin master
+  230  git rebase -i 42981bcd005f744bdf6b289e36b67f66b5d7b108
+  231  rm -rf .git
+  232  git init
+  233  git status
+  234  git add .
+  235  git commit -m "Initial commit"
+  236  git remote add origin https://github.com/Pocyx/ConsumoDatos.git
+  237  git push origin master --force
+  238  git log
+  239  git log --oneline
+  240  git rebase -i 42981bcd005f744bdf6b289e36b67f66b5d7b108
+  241  git rebase -i dfe9342
+  242  git rebase --abort
+  243  touch test.txt
+  244  git commit -am "test"
+  245  git add test.txt
+  246  git commit -m "test"
+  247  git log --oneline
+  248  git rebase -i dfe9342
+  249  git log --oneline
+  250  git commit --amend
